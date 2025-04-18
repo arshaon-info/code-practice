@@ -1,0 +1,124 @@
+.link {
+  display: none;
+}
+
+.body {
+  background-color: lightblue;
+}
+
+.h1 {
+  color: white;
+  text-align: center;
+}
+
+.p {
+  font-family: verdana;
+}
+
+.body {background-color: green;}
+.h1   {color: gold;}
+.p    {color: yellow;}
+
+
+.body {
+  background-color: powderblue;
+}
+.h1 {
+  color: blue;
+}
+.p {
+  color: red;
+}
+
+.h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+.p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+
+.BeatsRepair{}
+.a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/*.function myFunction(mapbolton) {
+  .alert("You clicked the coffee cup!");
+}
+*/
+
+.table, th, td {
+  border: 1px solid black;
+}
+.table th, td {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+.table, th, td {
+  border: 1px solid black;
+}
+
+.div {
+  font-family: sans-serif;
+  border: 1px solid darkred;
+  width:300px;
+  margin:auto;
+}
+
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.function displayResult() {
+.document.getElementById("myHeader").innerHTML ="Have a nice day!";
+}
+
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.all-browsers > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background: white;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
